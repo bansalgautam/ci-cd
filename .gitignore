@@ -38,4 +38,8 @@ next-env.d.ts
 # lockfiles
 yarn.lock
 package-lock.json
-bun.lockb 
+bun.lockb
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
