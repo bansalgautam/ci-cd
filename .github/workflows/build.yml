@@ -1,9 +1,10 @@
-name: Build Success on Push
+name: Build Success on Pull Request
 
 on:
   pull_request:
     branches:
       - master
+      - main
 
 jobs:
   build:
