@@ -43,7 +43,7 @@ export default defineConfig({
     },
 
     {
-      name: "webkit",
+      name: "webkit", 
       use: { ...devices["Desktop Safari"] },
     },
 
